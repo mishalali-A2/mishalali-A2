@@ -6,7 +6,7 @@
   <a href="mailto:mishal45654@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/mishal-ali">
+  <a href="https://www.linkedin.com/in/mishal-ali-a50a80131/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/mishalali-A2">
