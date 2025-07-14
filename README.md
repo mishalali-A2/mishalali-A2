@@ -56,7 +56,7 @@
   <a href="https://github.com/mishalali-A2?tab=repositories">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
-  <a href="https://github.com/mishalali-A2?tab=stars">
+<!--   <a href="https://github.com/mishalali-A2?tab=stars">
     <img alt="Total Stars" title="Total Stars" src="https://custom-icon-badges.demolab.com/badge/-Total%20Stars-yellow?style=for-the-badge&logoColor=white&logo=star"/>
-  </a>
+  </a> -->
 </p>
